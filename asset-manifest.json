@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FitnessFortune/public/static/css/main.bc9d4629.css",
-    "main.js": "/FitnessFortune/public/static/js/main.b42fb7a0.js",
+    "main.js": "/FitnessFortune/public/static/js/main.c7a4bae9.js",
     "static/media/banner.png": "/FitnessFortune/public/static/media/banner.5209b5e92a864ca0c615.png",
     "static/media/gym.png": "/FitnessFortune/public/static/media/gym.6e701417c428e2fbc267.png",
     "index.html": "/FitnessFortune/public/index.html",
     "main.bc9d4629.css.map": "/FitnessFortune/public/static/css/main.bc9d4629.css.map",
-    "main.b42fb7a0.js.map": "/FitnessFortune/public/static/js/main.b42fb7a0.js.map"
+    "main.c7a4bae9.js.map": "/FitnessFortune/public/static/js/main.c7a4bae9.js.map"
   },
   "entrypoints": [
     "static/css/main.bc9d4629.css",
-    "static/js/main.b42fb7a0.js"
+    "static/js/main.c7a4bae9.js"
   ]
 }
